@@ -30,7 +30,7 @@
         This problem was solved using <strong>C++</strong> as the programming language. The code can be tested on platforms such as:
     </p>
     <ul>
-        <li><a href="https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true">HackerRank</a></li>
+        <li><a href="https://www.hackerrank.com/challenges/c-tutorial-class/problem">HackerRank</a></li>
     </ul>
     <h2>3. Approach & Solution Explanation</h2>
     <p>
