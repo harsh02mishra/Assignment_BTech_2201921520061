@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Day 1</h1>
-    <h3>1. Problem Statement</h3>
+    <h3>1. <a href="https://www.hackerrank.com/challenges/c-tutorial-class/problem">Problem Statement</a></h3>
     <p>
         <strong>Problem:</strong> You are tasked with creating a class called <code>Student</code> that represents a student's details. 
         This class should have the following attributes:
