@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Day 1</h1>
-    <h2>1. Problem Statement</h2>
+    <h3>1. Problem Statement</h3>
     <p>
         <strong>Problem:</strong> You are tasked with creating a class called <code>Student</code> that represents a student's details. 
         This class should have the following attributes:
@@ -25,14 +25,14 @@
     <p>
         The input format consists of 4 lines representing the student's age, first name, last name, and standard. The output should be a string returned by the <code>to_string()</code> method.
     </p>
-    <h2>2. Coding Platform</h2>
+    <h3>2. Coding Platform</h3>
     <p>
         This problem was solved using <strong>C++</strong> as the programming language. The code can be tested on platforms such as:
     </p>
     <ul>
         <li><a href="https://www.hackerrank.com/challenges/c-tutorial-class/problem">HackerRank</a></li>
     </ul>
-    <h2>3. Approach & Solution Explanation</h2>
+    <h3>3. Approach & Solution Explanation</h3>
     <p>
       In this solution, we are creating a Student class that stores information about a student, including their age, first name, last name, and standard (class).
 <ul>
