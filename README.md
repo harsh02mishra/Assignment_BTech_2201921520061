@@ -51,5 +51,45 @@ This method converts the student’s data into a single string format. It concat
 </ul>
     </p>
     <hr>
+<!--------------------------------------------------------------------------------------Day 1-------------------------------------------------------------------------------------->
+
+<h1>Day 2</h1>
+    <h3>1. <a href="https://www.hackerrank.com/challenges/classes-objects/problem">Problem Statement</a></h3>
+    <p>
+        <strong>Problem:</strong> A class defines a blueprint for an object. We use the same syntax to declare objects of a class as we use to declare variables of other basic types. For example:
+    </p>
+    <ul>
+        <li><strong><code>Box box1</code></strong>       // Declares variable box1 of type Box</li>
+        <li><strong><code>Box box2</code></strong>       // Declares variable box2 of type Box</li>
+    </ul>
+    <p>Kristen is a contender for valedictorian of her high school. She wants to know how many students (if any) have scored higher than her in the 5 exams given during this semester.</p>
+    <p>Create a class named<strong> Student</strong> with the following specifications:</p>
+    <ul>
+        <li>An instance variable named <strong>scores</strong> to hold a student's 5 exam scores.</li>
+        <li>A <code>void input()</code> function that reads 5 integers and saves them to <strong>scores</strong>.</li>
+        <li>An <code>int calculateTotalScore()</code> function that returns the sum of the student's scores.</li>
+    </ul>
+    <h3>2. Coding Platform</h3>
+    <p>
+        This problem was solved using <strong>C++</strong> as the programming language. The code can be tested on platforms such as:
+    </p>
+    <ul>
+        <li><a href="https://www.hackerrank.com/challenges/classes-objects/problem">HackerRank</a></li>
+    </ul>
+    <h3>3. Approach & Solution Explanation</h3>
+    <p>
+      In this solution, we are creating a Student class that stores marks of 5 subjects of a student.
+<ul>
+<li><strong><code>void input():</code></strong>
+In this member function taking 5 subjects marks as an input and storing it into <strong>scores</strong>.</li>
+
+<li><Strong><code>int calculateTotalScore(): </code></strong>
+In this member function adding each subject marks and storing it into strong <code>sum_marks</code> and return it to the <code>main()</code> function.</li>
+
+</ul>
+    </p>
+    <hr>
+<!-----------------------------------------------------------------------------------Day 2---------------------------------------------------------------------------------------->
+
 </body>
 </html>
