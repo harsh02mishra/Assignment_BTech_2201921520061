@@ -90,6 +90,45 @@ In this member function adding each subject marks and storing it into strong <co
     </p>
     <hr>
 <!-----------------------------------------------------------------------------------Day 2---------------------------------------------------------------------------------------->
-
+<h1>Day 3</h1>
+     <h3>1. <a href="https://www.hackerrank.com/challenges/inheritance-introduction/problem">Problem Statement</a></h3>
+    <p>
+        <strong>Problem:</strong>The class Triangle has a function called triangle(). Now we create a class derived from the base class Triangle called Isosceles.
+    </p>
+    <p>Now we can create a derived class object and use it to access the functions of the base class.</p>
+    <code>int main(){
+    Isosceles isc;
+    isc.isosceles();
+    isc.triangle();
+    return 0;
+}</code>
+    <p>This code will print:<br>
+    <code>I am an isosceles triangle
+        I am a triangle</code></p>
+        <p>Now write a function in Isosceles class such that the output is as given below.
+<br><strong>Sample Output: </strong>
+<code>
+I am an isosceles triangle
+In an isosceles triangle two sides are equal
+I am a triangle</code></p>
+    <h3>2. Coding Platform</h3>
+    <p>
+        This problem was solved using <strong>C++</strong> as the programming language. The code can be tested on platforms such as:
+    </p>
+    <ul>
+        <li><a href="https://www.hackerrank.com/challenges/inheritance-introduction/problem">HackerRank</a></li>
+    </ul>
+    <h3>3. Approach & Solution Explanation</h3>
+    <p>
+      In this solution, we are creating a <code>int description()</code> member function.
+<ul>
+    <li>The <code>void description()</code> is created in the <strong>isosceles class</strong> which is derived from the base class <strong>Triangle</strong>
+<li><strong><code>void description():</code></strong>
+It used to print the <strong>In an isosceles triangle two sides are equal</strong> when it called by the <code>int main()</code> function by creating <strong>object</strong> of <code>Triangle</code> class.</li>
+    
+</ul>
+    </p>
+    <hr>
+<!----------------------------------------------------------------------------Day 3--------------------------------------------------------------------------------------------->
 </body>
 </html>
