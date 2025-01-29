@@ -130,5 +130,30 @@ It used to print the <strong>In an isosceles triangle two sides are equal</stron
     </p>
     <hr>
 <!----------------------------------------------------------------------------Day 3--------------------------------------------------------------------------------------------->
+<h1>Day 4</h1>
+    <h3>1. <a href="https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem">Problem Statement</a></h3>
+    <p>
+        <strong>Problem:</strong>Create an Equilateral class that inherits from Isosceles and should have a function such that the output is as given below.<br>
+            <code>Equilateral</code> class contains a member function which prints <strong>"I am an equilateral triangle"</strong>
+        </p>
+    <h3>2. Coding Platform</h3>
+    <p>
+        This problem was solved using <strong>C++</strong> as the programming language. The code can be tested on platforms such as:
+    </p>
+    <ul>
+        <li><a href="https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem">HackerRank</a></li>
+    </ul>
+    <h3>3. Approach & Solution Explanation</h3>
+    <p>
+      In this solution, we are creating a <code>Equilateral</code> class derived from <code>Isosceles</code>class.
+<ul>
+    <li>The <code>void equilateral()</code> is created in the <strong>Equilateral class.</strong></li>
+<li><strong><code>void equilateral():</code></strong>
+It used to print the <strong>I am an equilateral triangle</strong> when it called by the <code>int main()</code> function by creating <strong>object</strong> of <code>Equilateral</code> class.</li>
+    
+</ul>
+    </p>
+    <hr>
+<!-------------------------------------------------------------------------------Day 4------------------------------------------------------------------------------------->
 </body>
 </html>
