@@ -155,5 +155,41 @@ It used to print the <strong>I am an equilateral triangle</strong> when it calle
     </p>
     <hr>
 <!-------------------------------------------------------------------------------Day 4------------------------------------------------------------------------------------->
+<h1>Day 5</h1>
+    <h3>1. <a href="https://www.hackerrank.com/challenges/rectangle-area/problem">Problem Statement</a></h3>
+    <p>
+        <strong>Problem:</strong>In this challenge, you are required to compute the area of a rectangle using classes.<br>
+        Two classes are:<br>
+        <strong>1. Rectangle class: </strong><br>
+        <ul>
+            <li>This class should have two private integer data members: <code>width</code> and <code>height</code></li>
+            <li>It should contain a <code>display()</code> method that prints the values of <code>width</code> and <code>height</code> separated by a space.</li>
+        </ul>
+        <strong>2. RectangleArea class: </strong><br>
+        <ul>
+            <li>This class should contain a <code>read_input()</code> method to take user input for <code>width</code> and <code>height</code></li>
+            <li>It should override the <code>display()</code> method to print the area of the rectangle.</li>
+        </ul>
+        </p>
+    <h3>2. Coding Platform</h3>
+    <p>
+        This problem was solved using <strong>C++</strong> as the programming language. The code can be tested on platforms such as:
+    </p>
+    <ul>
+        <li><a href="https://www.hackerrank.com/challenges/rectangle-area/problem">HackerRank</a></li>
+    </ul>
+    <h3>3. Approach & Solution Explanation</h3>
+    <p>
+      In this solution, we are creating two classe as mentioned in the problem statement Rectangle and RectangleArea class.
+<ul>
+    <strong>1. Rectangle class:</strong>
+    <li>In this class we have <code>width</code> and <code>height</code> as protected data members and <code>void display()</code> as member function which prints the output as width and height.</li>
+<li><strong><code>void equilateral():</code></strong>
+It is used to print the <strong>I am an equilateral triangle</strong> when it is called by the <code>int main()</code> function by creating <strong>object</strong> of <code>Equilateral</code> class.</li>
+  <strong>2. RectangleArea class:</strong>Derived from base class Rectangle
+    <li>This class contains <code>void read_input()</code> as a member function which takes input in width and height and one more function <code>void display()</code> it print area of rectangle.</li>
+</ul>
+    </p>
+    <hr>
 </body>
 </html>
