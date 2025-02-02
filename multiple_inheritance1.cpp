@@ -1,3 +1,8 @@
+/*
+@Tecjgig
+https://www.techgig.com/practice/question/multiple/cTBabVpaWXV2LzNDR3NGNWhUZ2FnREd6WDB4ZlF5WnE1eGJNZitVcDJRS3B1QnEvN2EyYmhSKy8rRWZocElocQ==/1
+*/
+
 #include <iostream>
 using namespace std;
 
