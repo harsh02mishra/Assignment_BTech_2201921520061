@@ -1,3 +1,7 @@
+/*
+@Hackerrank
+https://www.hackerrank.com/challenges/rectangle-area/problem
+*/
 #include <iostream>
 
 using namespace std;

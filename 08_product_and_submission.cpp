@@ -1,7 +1,7 @@
-/* 
+/*
 @Techgig
-
-*/
+https://www.techgig.com/practice/question/product-and-summation/WC8rUExzT1liZUxSc2hSTU1qanBST09jMFRFRy9hZHhNa0dVcmVYZjFHWkRPVDM3T2JwN1o0ZnV0MEVmNUxqWQ==/1
+	*/
 #include <iostream>
 using namespace std;
 
