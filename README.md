@@ -191,5 +191,35 @@ It is used to print the <strong>I am an equilateral triangle</strong> when it is
 </ul>
     </p>
     <hr>
+<!--     ------------------------------------------------------------------------------Day 5------------------------------------------------------------------------------------- -->
+<h1>Day 6</h1>
+    <h3>1. <a href="https://www.techgig.com/practice/question/multiple/cTBabVpaWXV2LzNDR3NGNWhUZ2FnREd6WDB4ZlF5WnE1eGJNZitVcDJRS3B1QnEvN2EyYmhSKy8rRWZocElocQ==/1">Problem Statement</a></h3>
+    <p>
+        <strong>Problem:</strong>Make three classes <code>BATSMAN, BOWLER</code> and <code>ALLROUNDER</code>. The three classes have functions <code>bat(), bowl(), both()</code> respectively. Class ALLROUNDER inherits class BATSMAN and CLASS BOWLER.<br>
+        The respective methods have the following texts:
+        <ul>
+            <li><code>bat():</code> I am Batsman</li>
+            <li><code>bowl():</code> I am Bowler</li>
+            <li><code>both():</code> I am Batsman and Bowler</li>
+        </ul>
+        Make the object of class ALLROUNDER.
+        </p>
+    <h3>2. Coding Platform</h3>
+    <p>
+        This problem was solved using <strong>C++</strong> as the programming language. The code can be tested on platforms such as:
+    </p>
+    <ul>
+        <li><a href="https://www.techgig.com/practice/question/multiple/cTBabVpaWXV2LzNDR3NGNWhUZ2FnREd6WDB4ZlF5WnE1eGJNZitVcDJRS3B1QnEvN2EyYmhSKy8rRWZocElocQ==/1">Techgig</a></li>
+    </ul>
+    <h3>3. Approach & Solution Explanation</h3>
+    <p>
+      In this solution, we are creating three classe as mentioned in the problem statement BATSMAN, BOWLER and ALLROUNDER class.
+<ul>
+    <li>Creating BATSMAN and BOWLER class with member function <code>bat() and bowl()</code> respectively.</li>
+<li>After that we create ALLROUNDER inherit BATSMAN and BOWLER class. ALLROUNDER class has <code>both()</code> functions.</li>
+    <li>In <code>main()</code> we create the object of the ALLROUNDER class which is a child class or derived class, we can access the member function of the parent class(BATSMAN and BOWLER) using the object of child class(ALLROUNDER).</li>
+</ul>
+    </p>
+    <hr>
 </body>
 </html>
